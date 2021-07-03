@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <!-- Trees -->
+  <project path="device/xiaomi/sweet" name="device_xiaomi_sweet" remote="brucetech627" revision="nez" clone-depth="1" />
+  <project path="kernel/xiaomi/sweet" name="kernel_xiaomi_sweet" remote="AdarshGrewal" revision="11" clone-depth="1" />
+  <project path="vendor/xiaomi/sweet" name="vendor_xiaomi_sweet" remote="AdarshGrewal" revision="11" clone-depth="1" />
+
+</manifest>
